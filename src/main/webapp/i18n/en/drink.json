@@ -1,0 +1,25 @@
+{
+  "slotApp": {
+    "drink": {
+      "home": {
+        "title": "Drinks",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Create a new Drink",
+        "createOrEditLabel": "Create or edit a Drink",
+        "notFound": "No Drinks found"
+      },
+      "created": "A new Drink is created with identifier {{ param }}",
+      "updated": "A Drink is updated with identifier {{ param }}",
+      "deleted": "A Drink is deleted with identifier {{ param }}",
+      "delete": {
+        "question": "Are you sure you want to delete Drink {{ id }}?"
+      },
+      "detail": {
+        "title": "Drink"
+      },
+      "id": "ID",
+      "nome": "Nome",
+      "marca": "Marca"
+    }
+  }
+}

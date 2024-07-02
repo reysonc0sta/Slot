@@ -1,0 +1,25 @@
+{
+  "slotApp": {
+    "drink": {
+      "home": {
+        "title": "Bebidas",
+        "refreshListLabel": "Atualizar lista",
+        "createLabel": "Criar novo Bebidas",
+        "createOrEditLabel": "Criar ou editar Bebidas",
+        "notFound": "Nenhum Bebidas encontrado"
+      },
+      "created": "Um novo Bebidas foi criado com o identificador {{ param }}",
+      "updated": "Um Bebidas foi atualizado com o identificador {{ param }}",
+      "deleted": "Um Bebidas foi excluído com o identificador {{ param }}",
+      "delete": {
+        "question": "Tem certeza de que deseja excluir Bebidas {{ id }}?"
+      },
+      "detail": {
+        "title": "Bebidas"
+      },
+      "id": "ID",
+      "nome": "Nome",
+      "marca": "Marca"
+    }
+  }
+}
